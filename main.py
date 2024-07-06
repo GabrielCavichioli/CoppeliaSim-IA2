@@ -1,3 +1,5 @@
+# Autor: Gabriel Antonio Cavichioli | Data: 19/06/24.
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
